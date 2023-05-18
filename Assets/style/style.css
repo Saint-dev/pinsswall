@@ -157,14 +157,29 @@ ul li:hover ul.dropdown{
 .zoom-image:hover {
   transform: scale(1.1);
 }
-.zoom-image:hover .wallpaper-title h1 {
-  color: #000; 
-}
 .wallpaper-title{
-	margin-top: -15px;
+	
 	color: white;
 }
+
+.footer{
+
+	background-color: rgba(30, 31, 77, 0.20);
+	min-height: 10vh;
+}
+.aviso{
+	color: white;
+	display: flex;
+	min-height: 60vh;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
 @media screen and (max-width: 600px){
+	.aviso h1{
+		font-size: 16px;
+	}
 	#results-container{
 		display: flex;
 		justify-content:center ;

@@ -1,70 +1,145 @@
 {
   "wallpapers": [
-    
-       {
-      "id": 9,
-      "title": "RONALDO",
-      "tags": "RONALDO, esportes, brasil, barcelona",
-      "image_url": "https://i.pinimg.com/564x/e8/63/26/e86326408c78f48140ab7c28459941fc.jpg",
-      "category": "FUTEBOOL"
-    }, 
-     {
-      "id": 8,
-      "title": "COLOURFUL",
-      "tags": "aesthetic colourful gradient wallpaper design art for your poster / background / wallpaper / achtergrond / desktop / quotes iphone / cirlcle / pastel / neon with noise for latest fashion / nail / graphic design summer 2022 trend gradient aesthetic quote, black, icon, blue, pink, heart, green, brown,background wallpaper, pastel by Heleen DuLi",
-      "image_url": "https://i.pinimg.com/564x/49/41/ae/4941aebf8f39703b01defd36c5e65a25.jpg",
-      "category": "AESTHETIC"
-    }, 
-    {
-      "id": 7,
-      "title": "JAPONES ANIME ",
-      "tags": "desenho, anime, hd, celular, letra japones",
-      "image_url": "https://i.pinimg.com/236x/3e/b3/2b/3eb32ba5d2ad49b1593d1148e3bcd7f9.jpg",
-      "category": "ANIME"
-    }, 
-   {
-      "id": 6,
-      "title": "CARRO SUPRA ",
-      "tags": "Carros, supra, chuva, hd",
-      "image_url": "https://i.pinimg.com/236x/12/a2/c0/12a2c04bd206ccad3382258bb4be7a3c.jpg",
-      "category": "CARRO"
-    }, 
-   {
-      "id": 5,
-      "title": "JAPONES AESTHETIC ",
-      "tags": "sony, letras japones, video game AESTHETIC",
-      "image_url": "https://i.pinimg.com/236x/af/67/a8/af67a822fed26bba6441c879a2831e8e.jpg",
-      "category": "AESTHETIC"
-    },
-   {
-      "id": 4,
-      "title": "RUI COSTS, MATERAZI",
-      "tags": "",
-      "image_url": "https://i.pinimg.com/236x/1b/4d/2b/1b4d2bfe773942e0f90a59cad4e235cd.jpg",
-      "category": "FUTEBOOL"
-    },
-    {
-      "id": 3,
-      "title": "RICK AND MORTY",
-      "tags": "",
-      "image_url": "https://i.pinimg.com/236x/55/fa/3d/55fa3d531e038593a733faad8ecbd5a9.jpg",
-      "category": "DESENHO"
-    },
-    {
-      "id": 2,
-      "title": "LAW ONE PIECE",
-      "tags": "law, one piece, anime, hd",
-      "image_url": "https://i.pinimg.com/564x/4b/45/68/4b45687bbc72b09c28184160f0645ad7.jpg",
-      "category": "ANIMES"
-    },
     {
       "id": 1,
       "title": "ANDROMEDA  ",
       "tags": "galaxia, hd, lua, andromeda",
       "image_url": "https://i.pinimg.com/564x/c3/07/66/c30766e3c8d8977e562c7cdc5f7333a1.jpg",
       "category": "AESTHETIC"
-    }
-  
+    },
+       {
+      "id": 2,
+      "title": "RONALDO",
+      "tags": "RONALDO, esportes, brasil, barcelona",
+      "image_url": "https://i.pinimg.com/564x/e8/63/26/e86326408c78f48140ab7c28459941fc.jpg",
+      "category": "FUTEBOL"
+    }, 
+     {
+      "id": 3,
+      "title": "COLOURFUL",
+      "tags": "aesthetic colourful gradient wallpaper design art for your poster / background / wallpaper / achtergrond / desktop / quotes iphone / cirlcle / pastel / neon with noise for latest fashion / nail / graphic design summer 2022 trend gradient aesthetic quote, black, icon, blue, pink, heart, green, brown,background wallpaper, pastel by Heleen DuLi",
+      "image_url": "https://i.pinimg.com/564x/49/41/ae/4941aebf8f39703b01defd36c5e65a25.jpg",
+      "category": "AESTHETIC"
+    }, 
+    {
+      "id": 4,
+      "title": "JAPONES ANIME ",
+      "tags": "desenho, anime, hd, celular, letra japones ",
+      "image_url": "https://i.pinimg.com/236x/3e/b3/2b/3eb32ba5d2ad49b1593d1148e3bcd7f9.jpg",
+      "category": "ANIME"
+    }, 
+   {
+      "id": 5,
+      "title": "CARRO SUPRA ",
+      "tags": "Carros, supra, chuva, hd",
+      "image_url": "https://i.pinimg.com/236x/12/a2/c0/12a2c04bd206ccad3382258bb4be7a3c.jpg",
+      "category": "CARRO"
+    }, 
+   {
+      "id": 6,
+      "title": "JAPONES AESTHETIC ",
+      "tags": "sony, letras japones, video game AESTHETIC",
+      "image_url": "https://i.pinimg.com/236x/af/67/a8/af67a822fed26bba6441c879a2831e8e.jpg",
+      "category": "AESTHETIC"
+    },
+   {
+      "id": 7,
+      "title": "RUI COSTS, MATERAZI",
+      "tags": "",
+      "image_url": "https://i.pinimg.com/236x/1b/4d/2b/1b4d2bfe773942e0f90a59cad4e235cd.jpg",
+      "category": "FUTEBOOL"
+    },
+    {
+      "id": 8,
+      "title": "RICK AND MORTY",
+      "tags": "",
+      "image_url": "https://i.pinimg.com/236x/55/fa/3d/55fa3d531e038593a733faad8ecbd5a9.jpg",
+      "category": "DESENHO"
+    },
+    {
+      "id": 9,
+      "title": "LAW ONE PIECE",
+      "tags": "law, one piece, anime, hd",
+      "image_url": "https://i.pinimg.com/564x/4b/45/68/4b45687bbc72b09c28184160f0645ad7.jpg",
+      "category": "ANIMES"
+    },
+    {
+      "id": 10,
+      "title": "KAFKA",
+      "tags": " Kafka Honkai Star Rail 1600x2560 ANIME ",
+      "image_url": "https://i.redd.it/lndymhpewb0b1.png",
+      "category": "ANIMES"
+    },
+    {
+      "id": 11,
+      "title": "SHENHE",
+      "tags": "Shenhe [Genshin Impact] (2160x3840) ANIME", 
+      "image_url": "https://i.redd.it/a5jxm47fv30b1.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 12,
+      "title": "BATTLE",
+      "tags": "Battle [Berserk] (1440x2560) ANIME",
+      "image_url": "https://i.redd.it/battle-berserk-1440x2560-v0-n9tjih1f9uza1.jpg?s=3ad37153d4d7a5f13097e781c99df0a6324536ca",
+      "category": "ANIME"
+    },  
+    {
+      "id": 13,
+      "title": "SWORD MAIDEN",
+      "tags": "Sword Maiden [Original] (2880x5120) ANIME",
+      "image_url": "https://i.redd.it/am0h22ffbsza1.jpg",
+      "category": "ANIMES"
+    },  
+     {
+      "id": 14,
+      "title": "EULA",
+      "tags": "Eula [Genshin Impact] (2160x3840) ANIME",
+      "image_url": "https://i.redd.it/r5cse7zz9iza1.png",
+      "category": "ANIMES"
+    },  
+     {
+      "id": 15,
+      "title": "KAFKA",
+      "tags": "Kafka [Honkai Star Rail] (2250x4000) ANIME",
+      "image_url": "https://i.redd.it/kafka-honkai-star-rail-2250x4000-v0-8tixq26uwtya1.jpg?s=2726021261043ecbf861a8d9199d01d56ebe0e38",
+      "category": "ANIMES"
+    },  
+     {
+      "id": 16,
+      "title": "SWING",
+      "tags": "Swing [Original] (2880x5120) ANIME",
+      "image_url": "https://i.redd.it/swing-original-2880x5120-v0-u65n50pflsya1.jpg?s=9528c8bf764c1b9f42ed1a139f85ec7ff0f23c72",
+      "category": "ANIMES"
+    },  
+     {
+      "id": 17,
+      "title": "CRYO EXORCIST",
+      "tags": "Cryo Exorcist Shenhe [Genshin Impact] (2880x5120) ANIME",
+      "image_url": "https://preview.redd.it/cryo-exorcist-shenhe-genshin-impact-2880x5120-v0-3lo6q9pebsza1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=9b6fb139430d9f5d09c0e725dcfadca82a613f54",
+      "category": "ANIMES"
+    },  
+     {
+      "id": 18,
+      "title": "HU TAO",
+      "tags": "Hu Tao [Genshin Impact] (2880x5120) ANIME",
+      "image_url": "https://preview.redd.it/axlv2ylhqzya1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=885c346b300a96f6c50e095d059ecc6c061d80e7",
+      "category": ""
+    }, 
+     {
+      "id": 19,
+      "title": "JJ",
+      "tags": "",
+      "image_url": "http://www.w3.org/2005/Atom",
+      "category": ""
+    },   
+     {
+      "id": 20,
+      "title": "",
+      "tags": "",
+      "image_url": "",
+      "category": ""
+    }  
    ]
 
 }
