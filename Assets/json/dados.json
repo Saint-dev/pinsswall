@@ -128,18 +128,152 @@
     }, 
      {
       "id": 19,
-      "title": "JJ",
-      "tags": "",
-      "image_url": "http://www.w3.org/2005/Atom",
-      "category": ""
+      "title": "PRETTY CURE",
+      "tags": "ANIMES PRETTY CURE",
+      "image_url": "https://mfiles.alphacoders.com/994/994677.jpg",
+      "category": "ANIMES"
     },   
      {
       "id": 20,
-      "title": "",
-      "tags": "",
-      "image_url": "",
-      "category": ""
-    }  
+      "title": "HOSHINO AI",
+      "tags": "Anime / Oshi no Ko Ai Hoshino ",
+      "image_url": "https://mfiles.alphacoders.com/994/994617.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 22,
+      "title": "KIBA",
+      "tags": "Anime / Naruto kiba",
+      "image_url": "https://mfiles.alphacoders.com/994/994411.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 23,
+      "title": "LANCE CROWN",
+      "tags": "Anime / Mashle: Magic and Muscle Lance Crown ",
+      "image_url": "https://mfiles.alphacoders.com/994/994224.jpeg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 24,
+      "title": "JUJUTSU KAISEN",
+      "tags": "Anime / Jujutsu Kaisen",
+      "image_url": "https://mfiles.alphacoders.com/993/993911.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 25,
+      "title": "CHAINSAW MAN",
+      "tags": "Anime / Chainsaw Man",
+      "image_url": "https://mfiles.alphacoders.com/992/992836.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 26,
+      "title": "THE CASE STUDY OF....",
+      "tags": "Anime / THE CASE STUDY OF VANITAS",
+      "image_url": "https://mfiles.alphacoders.com/991/991835.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 27,
+      "title": "CID KAGENOU",
+      "tags": "Anime / The Eminence in Shadow  Tags: Cid Kagenou",
+      "image_url": "https://mfiles.alphacoders.com/991/991346.png",
+      "category": "ANIMES"
+    },
+      {
+      "id": 28,
+      "title": "HOSHIMACHI SUISEI",
+      "tags": "Anime / Virtual Youtuber  Tags: Hoshimachi Suisei ",
+      "image_url": "https://mfiles.alphacoders.com/991/991215.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 29,
+      "title": "ONE PIECE",
+      "tags": "Anime / One Piece luffy",
+      "image_url": "https://mfiles.alphacoders.com/991/991093.jpg",
+      "category": "ANIMES"
+    },
+      {
+      "id": 30,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 31,
+      "title": "SUPRA",
+      "tags": "carro, supra, hd",
+      "image_url": "https://i.pinimg.com/564x/d8/80/85/d8808539ef648d02536a919c231424ae.jpg",
+      "category": "CARRO"
+    },
+     {
+      "id": 32,
+      "title": "PORSCHE 911 GT2",
+      "tags": "PORSCHE 911 GT2, CARRO, HD",
+      "image_url": "https://i.pinimg.com/564x/2a/05/00/2a05001c7dcbb167cdfc5e1e2ff32e6b.jpg",
+      "category": "CARRO"
+    },
+     {
+      "id": 33,
+      "title": "NISSAN SKYLINE",
+      "tags": "Nissan Skyline CARROS",
+      "image_url": "https://i.pinimg.com/564x/cc/d3/d7/ccd3d7a47cd1c04228df85b6232fd415.jpg",
+      "category": "CARRO"
+    },
+     {
+      "id": 34,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 35,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 36,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 37,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 38,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 39,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    },
+     {
+      "id": 40,
+      "title": "VIRTUAL YOUTUBER",
+      "tags": "Anime / Virtual Youtuber",
+      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
+      "category": "ANIMES"
+    }
+
    ]
 
 }

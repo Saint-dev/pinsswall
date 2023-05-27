@@ -167,7 +167,7 @@ ul li:hover ul.dropdown{
 	background-color: rgba(30, 31, 77, 0.20);
 	min-height: 10vh;
 }
-.aviso{
+/* .aviso{
 	color: white;
 	display: flex;
 	min-height: 60vh;
@@ -175,7 +175,7 @@ ul li:hover ul.dropdown{
 	align-items: center;
 	text-align: center;
 }
-
+ */
 @media screen and (max-width: 600px){
 	.aviso h1{
 		font-size: 16px;
