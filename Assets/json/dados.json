@@ -30,7 +30,7 @@
     }, 
    {
       "id": 5,
-      "title": "CARRO SUPRA ",
+      "title": "NISSAN GTR R34 SKYLINE ",
       "tags": "Carros, supra, chuva, hd",
       "image_url": "https://i.pinimg.com/236x/12/a2/c0/12a2c04bd206ccad3382258bb4be7a3c.jpg",
       "category": "CARRO"
@@ -205,7 +205,7 @@
     },
      {
       "id": 31,
-      "title": "SUPRA",
+      "title": "TOYOTA SUPRA MK4",
       "tags": "carro, supra, hd",
       "image_url": "https://i.pinimg.com/564x/d8/80/85/d8808539ef648d02536a919c231424ae.jpg",
       "category": "CARRO"
@@ -219,59 +219,31 @@
     },
      {
       "id": 33,
-      "title": "NISSAN SKYLINE",
+      "title": "NISSAN GTR R35",
       "tags": "Nissan Skyline CARROS",
       "image_url": "https://i.pinimg.com/564x/cc/d3/d7/ccd3d7a47cd1c04228df85b6232fd415.jpg",
       "category": "CARRO"
     },
      {
       "id": 34,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
+      "title": "NEYMAR JR BARCELONA",
+      "tags": "Neymar Jr, esportes, brasil, barcelona",
+      "image_url": "https://i.pinimg.com/564x/b6/7c/29/b67c290bd7defb1cc11a7acb61cb9f5e.jpg",
+      "category": "FUTEBOL"
     },
      {
       "id": 35,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
+      "title": "SUFGANG CRY NOW",
+      "tags": "SUFGANG, WALLPAPER",
+      "image_url": "https://i.pinimg.com/564x/ef/52/3e/ef523e0264cc18d646955d590325ded1.jpg",
+      "category": "AESTHETIC"
     },
      {
       "id": 36,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
-    },
-     {
-      "id": 37,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
-    },
-     {
-      "id": 38,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
-    },
-     {
-      "id": 39,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
-    },
-     {
-      "id": 40,
-      "title": "VIRTUAL YOUTUBER",
-      "tags": "Anime / Virtual Youtuber",
-      "image_url": "https://mfiles.alphacoders.com/990/990030.png",
-      "category": "ANIMES"
+      "title": "VINI JR",
+      "tags": "Vini Jr, esportes, brasil, Real MadrId",
+      "image_url": "https://i.pinimg.com/564x/4c/91/6e/4c916eefa72c72b7ddc81e0986fe63c5.jpg",
+      "category": "FUTEBOL"
     }
 
    ]
